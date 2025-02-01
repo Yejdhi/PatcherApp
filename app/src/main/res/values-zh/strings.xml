@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Project Earth: Patcher</string>
+
+    <string name="activity_main_version">版本：%s (%d)</string>
+    <string name="activity_main_patchable">是否可以修补：%s</string>
+
+    <string name="activity_installer_title">Installer</string>
+    <string name="activity_installer_install">Install</string>
+    <string name="activity_installer_cancel_title">取消</string>
+    <string name="activity_installer_cancel_message">确定要取消吗？</string>
+
+    <string name="activity_settings_title">设置</string>
+
+    <string name="activity_about_title">关于</string>
+
+    <string name="locator_server_title">Locator Server</string>
+
+    <string name="about_about_title">关于</string>
+    <string name="about_about_version">版本</string>
+
+    <string name="about_links_title">链接</string>
+    <string name="about_links_github_title">GitHub 仓库</string>
+    <string name="about_links_github_desc">项目源代码</string>
+    <string name="about_links_website_title">网站</string>
+    <string name="about_links_website_desc">项目主页</string>
+
+    <string name="about_credits_title">Credits</string>
+    <string name="about_credits_project_title">Project Earth Team</string>
+    <string name="about_credits_project_desc">App开发</string>
+
+    <string name="step_done">完成！</string>
+    <string name="step_failed">失败</string>
+
+    <string name="step_download_title">Download patches</string>
+    <string name="step_download_removing">Removing existing patches...</string>
+    <string name="step_download_downloading">Downloading latest...</string>
+    <string name="step_download_extract">Extracting...</string>
+    <string name="step_download_found">Found patch: %s</string>
+
+    <string name="step_decompile_title">Decompile</string>
+
+    <string name="step_patch_title">Patch</string>
+
+    <string name="step_recompile_title">Recompile</string>
+
+    <string name="step_sign_title">Sign</string>
+    <string name="step_sign_setup">Setting up...</string>
+    <string name="step_sign_signing">Signing...</string>
+    <string name="step_patch_server">Patching server address...</string>
+    <string name="step_patch_install">Installing: %s</string>
+</resources>
